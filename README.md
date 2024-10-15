@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** at **iValuePlus Services Pvt Ltd**, specializing 
 ### 👨‍💻 My Expertise:
 - **Backend**: PHP, Laravel
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Database**: MySQL, MariaDB
+- **Database**: MySQL, MariaDB, MongoDB
 - **Other Tools**: XAMPP, Git, WordPress, Elementor
 
 ### 🔭 What I'm Working On:
@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** at **iValuePlus Services Pvt Ltd**, specializing 
 - Exploring the latest features of Laravel for optimized backend development
 
 ### 🌱 What I'm Learning:
-- Enhancing my skills in frontend frameworks like Vue.js and React
+- Enhancing my skills in frontend frameworks like Laravel and NodeJs
 - Cloud services for better deployment and scalability
 
 ### 💬 Let's Connect:
